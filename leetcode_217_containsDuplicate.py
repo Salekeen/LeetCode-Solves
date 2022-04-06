@@ -1,8 +1,6 @@
 # HASH SET
 
 from ast import List
-
-
 class Solution:
     def containsDuplicates(self, nums:List[int])->bool:
         # lets iniatilize our hashset
